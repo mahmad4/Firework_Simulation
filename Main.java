@@ -1,10 +1,4 @@
-/*
-Muhammad Ahmad
-mahmad4
-project 3 
-lab M/W 2:00-3:15
-I did not collaborate with anyone and all the work is my own.
- */
+//Muhammad Ahmad
 
 import javax.swing.JComponent;
 import javax.swing.JFrame;
